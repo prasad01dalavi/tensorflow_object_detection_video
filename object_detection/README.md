@@ -16,9 +16,6 @@ Detection API for a research publication, please consider citing:
 Setup:
 
   * <a href='g3doc/installation.md'>Installation</a><br>
-  * <a href='g3doc/configuring_jobs.md'>
-      Configuring an object detection pipeline</a><br>
-  * <a href='g3doc/preparing_inputs.md'>Preparing inputs</a><br>
 
 Running:
 
