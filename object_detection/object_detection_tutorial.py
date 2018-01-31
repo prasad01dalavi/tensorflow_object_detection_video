@@ -110,7 +110,7 @@ with detection_graph.as_default():
         detection_classes = detection_graph.get_tensor_by_name('detection_classes:0')
         num_detections = detection_graph.get_tensor_by_name('num_detections:0')
 
-        video_path = '/home/prasad/Downloads/travel.mp4'
+        video_path = 'cat.mp4'
         cap = cv2.VideoCapture(video_path)
         ret = True
 
