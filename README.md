@@ -8,7 +8,7 @@ TensorFlow that makes it easy to construct, train and deploy object detection
 models.
 
 <p align="center">
-  <img src="tensorflow_video_object_detection/Video Detection_screenshot_31.01.2018.png" width=676 height=450>
+  <img src="object_detection/Video Detection_screenshot_31.01.2018.png" width=676 height=450>
 </p>
  
 
