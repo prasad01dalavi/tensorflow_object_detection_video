@@ -1,8 +1,4 @@
-# tensorflow_video_object_detection
-
-
-
-# Video Object Detection using TF Object Detection API
+# Video Objects Detection using TF Object Detection API
 Detects objects in the video file/camera using tensorflow object detection api.
 
 Creating accurate machine learning models capable of localizing and identifying
@@ -12,7 +8,7 @@ TensorFlow that makes it easy to construct, train and deploy object detection
 models.
 
 <p align="center">
-  <img src="object_detection/Figure_1.jpeg" width=676 height=450>
+  <img src="tensorflow_video_object_detection/Video Detection_screenshot_31.01.2018.png" width=676 height=450>
 </p>
  
 
